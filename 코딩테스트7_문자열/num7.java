@@ -14,6 +14,6 @@ public class num7 {
         int B = Integer.parseInt(new StringBuilder(st.nextToken()).reverse().toString());
 
         System.out.print(A > B ? A:B);
-
+        //System.out.print(A > B ? A:B);
     }
 }
